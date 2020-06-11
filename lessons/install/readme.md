@@ -47,13 +47,13 @@ import sklearn
 
 Did you install Python 2 or 3? Why?  
 
->> REPLACE THIS TEXT WITH YOUR RESPONSE
+Python 3 so that I could learn the latest software.
 
 ### Q2. Which Python Version Installed   
 
 In the Terminal:
 
-`python3 --version`
+Python 3.7.7
 
 >> REPLACE THIS TEXT WITH YOUR RESPONSE
 
