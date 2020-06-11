@@ -47,7 +47,7 @@ import sklearn
 
 Did you install Python 2 or 3? Why?  
 
->> I chose Python 3 because it was the recommended version
+I chose Python 3 to learn the latest version.
 
 ### Q2. Which Python Version Installed   
 
@@ -55,7 +55,7 @@ In the Terminal:
 
 `python3 --version`
 
->> Python 3.7.6
+Python 3.7.7
 
  
 
